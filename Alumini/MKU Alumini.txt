@@ -1,0 +1,156 @@
+B.C.A (Bachelor of Computer Applications 2006-2007)A7A2720328
+=======================================
+
+1st Year
+--------
+1.Mathematics (A11)
+2.Programming in C (A12)
+3.Digital Princple and Application (A13)
+4.PC Software for Windows (A14)
+5.System Software (A15)
+6.Cobol Programing (A16)
+7.Programming Lab-1 C-Lab ( A17)
+8.Programing  Lab-2 COBOL and PC Software Lab (A18)
+
+2nd year
+--------
+1.General Knowledge(GKL)
+2.Discrete Mathematics (A21)
+3.Object Oriented  Programming with C++ (A22)
+4.Computer Graphics (A23)
+5.Operating Systems (A24)
+6.Computer Organisation (A25)
+7.Computer Algorithms and Data Structure (A26)
+8.Pratical Lab-3 C++ Lab (A27)
+9.Pratical Lab-4 Graphics Lab (A28)
+
+3nd Year
+--------
+1.Software engineering (A31)
+2.Client Server Computing with Oracle (A32)
+3.Computer Networks (A33)
+4.Multimedia Technology and Application (A34)
+5.Java Programming (A35)
+6.Operational Research (A36)
+7.Programming Lab-5 Visual Basic,Oracle Lab (A37)
+8.Programing Lab-6 Java, HTML.(A38)
+
+M.C.A (Master of Computer Applications 2010-2011)10C7530027
+=======================================
+
+			Max Marks	Passing min
+		   internals   external     external total
+Theory&Praticals      25 	 75	       34     50
+Project		      100	200	       90     150
+
+
+1st Year
+-------
+1.Mathematical foundation of computer Science ( R10)
+2.Accounting and finical Managment (R11)
+3.Programming in 'C'
+4.Digital Principles and computer organisation (R13)
+5.Communication Skills ( R14)
+6.Graph Theory ( R15)
+7.Software Engineering (R16)
+8.Relational Database Management System (R17)
+9.Object Oriented Programming and C++ Lanaguage  (R18)
+10.Micro-Processor and Introduction to Embedded Systems (R19)
+
+Praticals
+1.Programming Lab in C and C++ (R1A)
+2.RDBMS Lab (R1B)
+
+
+2nd Year
+--------
+1.Optimization Techniques ( R20)
+2.Computer Graphics (R21)
+3.System Analysis and Design (R22)
+4.Computer Network (R23)
+5.Data Structure using C++ (R24)
+6.Computer Based Numerical Methods (R25)
+7.Java Programming (R26)
+8.Operating System (R27)
+9.Elective-Neural Network ( R28)
+10.Elective- Client Server Technology (R29)
+
+Praticals
+1.Graphics and Linux Lab (R2A)
+2.Java Lab  (R2B)
+
+
+3nd year
+--------
+1.Web Technology (R30)
+2.Princpals of Management and Orangization Behaviour(R31)
+3.Network Programming (R32)
+4.Elective Visual Programming Concepts in VC++(R33)
+5.Elective-Data Mining & Data Wareshousing (R34)
+
+Praticals
+1.Web Technology Lab (R3A)
+2.Visual Programming Lab (R3B)
+Project/Thesis/Viva voice ( R3C)
+
+
+M.B.A (Master of Business Administrations)_OLD
+==============================================
+
+1st year
+-------
+1.Principles of Management (D10)
+2.Organisational Behaviour (D11)
+3.Management Accounting (D12)
+4.Mangerial Economics (D13)
+5.Quantitative Methods (D14)
+6.Research Methodology (D15)
+7.Fundamental of Computers (D16)
+8.Management of Informations and Data Processing (D17)
+9.Marketing management (D18)
+10. Business Environment and Law (D19)
+
+
+2nd Year
+--------
+1.Financial Managment (D20)
+2.Operations management (D21)
+3.Personnel Management and Industrial Relations (D22)
+4.Operations Research  (D23)
+5.Strategic Management (D24)
+6.Relational Data Base Management Systems (D25)
+7.Entrepreneurship and Management of Small Business (D26)
+8.Elective -1
+9.Elective-2
+10.Elective -3
+11. Project 	(D2P)
+
+Elective- Anyone
+-----------------
+Marketing Area:
+1.Marketing Research (D2A)
+2.Product Management (D2B)
+3.Advertising and Sales Promotions (D2C)
+
+Finance Area
+1.Management of Financial Institutions (D2D)
+2.International Trade,Finance and Documentations (D2E)
+3.Investment and Profolio Management  (D2F)
+
+System Area
+1.Introduction to C and C++  (D2G)
+2.Computer Networks  (D2H)
+3.Modelling and Simulations (D2J)
+
+Production Area
+1.Value Engineering and Waste Control  (D2K)
+2.Materials Management  (D2L)
+3.Total Quality Management (D2M)
+
+Personnel Area:
+1.Training and Development (D2N)
+2.Orgnaisation Development (D2R)
+3.Human Resrouce Accounting (D2S)
+
+
+
