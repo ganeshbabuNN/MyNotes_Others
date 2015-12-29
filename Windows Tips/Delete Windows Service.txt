@@ -1,0 +1,6 @@
+sc delete ServiceName
+
+--get the service name from the windows services , double click on it and copy the service name
+
+exp
+sc delete “Adobe LM Service”
