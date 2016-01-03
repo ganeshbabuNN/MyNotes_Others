@@ -1,6 +1,18 @@
-sc delete ServiceName
+1. Run Regedit or Regedt32
+2. Find the registry entry "HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Services"
+3. Look for the service there and delete it. You can look at the keys to know what files the service was using and delete them as well (if necessary).
+alternatively, you can also use command prompt and delete a service using following command:
 
---get the service name from the windows services , double click on it and copy the service name
+sc delete < SERVICE name>
+
+-get the service name from the windows services , double click on it and copy the service name
 
 exp
 sc delete “Adobe LM Service”
+
+or to create, simply type 
+sc create <SERVICE name>
+
+Update: 
+If you have space in the file path you need to use quotation marks ("). For example: 
+sc create "MySQL" binpath= "C:\Archivos de programa\MySQL\MySQL Server 5.1\bin\mysqld.exe"
