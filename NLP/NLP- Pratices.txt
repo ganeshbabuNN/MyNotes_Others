@@ -51,6 +51,7 @@ Skills & Career
 13)The Job Test-Am I in the right job?
 14)The Stree Test-is My work-life balance in harmony
 15)The IQ Test-How Intelligent am I
+16)POMODORO TECHNIQUE -- For Continous Reading
 
 LifeStyle & Society
 -------------------
@@ -211,6 +212,8 @@ Changing our World
 12)The Geneticisation Model
 13)The Future Model
 14)The Doomsday Model
+
+
 
 
 
