@@ -1,0 +1,1 @@
+go to the registry and change a couple values. Open the registry and locate the key{ \HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management}, then change the value of ClearPageFile at Shutdown to a 0 IF the value is 1. If the value is 1, it will take longer for your computer to shutdown..this fix cured it all for me
