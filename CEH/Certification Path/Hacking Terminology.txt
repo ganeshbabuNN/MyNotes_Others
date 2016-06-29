@@ -1,0 +1,52 @@
+http://www.dailydot.com/technology/hacking-security-glossary-adware-bot-doxing/
+
+
+1)Adware
+2)Anonymous
+3)AntiSec
+4)Back door
+5)Black hat
+6)Bot
+7)Botnet
+8)Brute force attack
+9)Clone phishing
+10)Code
+11)Compiler
+12)Cookie
+13)Cracking
+14)Denial of service attack (DoS)
+15)Distributed denial of service attack (DDoS)
+16)Doxing
+17)Firewall
+18)Gray hat
+19)Hacking
+20)Hacktivist
+21)Hash
+22)IP
+23)IRC
+24)Keystroke logging
+25)Logic bomb
+26)LulzSec
+27)Malware
+28)Master
+29)NSA
+30)Payload
+31)Packet sniffer
+32)Phishing
+33)Remote access
+34)Rootkit
+35)Script kiddie
+36)Social engineering
+37)Spam
+38)Spear-phishing
+39)Spoofing
+40)Spyware
+41)Syrian Electronic Army
+42)Time bomb
+43)Trojan horse
+44)Virus
+45)Vulnerability
+46)Whaling
+47)White hat
+48)Worm
+49)Zero day exploit

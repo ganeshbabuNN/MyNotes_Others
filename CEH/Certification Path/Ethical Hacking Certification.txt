@@ -1,0 +1,132 @@
+1)CEH - Certified Ethical Hacker
+2)ECSA- EC-Council Certified Security Analayst
+3)LPT -Licensed Peneration Tester
+4)CSCU - Certified Secure Computer Users
+5)CHFI - Computer Hacking Forsenic Investigator
+6)ECSP - EC Council Certified Secure Programmer
+7)ENSA - EC Council Network Security Administrator
+8)CCISO- Certified Chief Information Security Officers
+
+
+1)CEH - Certified Ethical Hacker
+***********************************
+-The Certified Ethical Hacker program is the pinnacle of the most desired information security training program any information security professional will ever want to be in.
+-To master the hacking technologies, you will need to become one, but an ethical one! The accredited course provides the advanced hacking tools and techniques used by hackers and information security professionals alike to break into an organization. 
+As we put it, “To beat a hacker, you need to think like a hacker”.
+-This course will immerse you into the Hacker Mindset so that you will be able to defend against future attacks.
+-The security mindset in any organization must not be limited to the silos of a certain vendor, technologies or pieces of equipment. 
+
+
+2)ECSA- EC-Council Certified Security Analayst
+************************************************
+--You are an ethical hacker.
+-- In fact, you are a Certified Ethical Hacker. Your last name is Pwned. You dream about enumeration and you can scan networks in your sleep.
+-- You have sufficient knowledge and an arsenal of hacking tools and you are also proficient in writing custom hacking code.ll.
+
+3)LPT -Licensed Peneration Tester
+***********************************
+-The LPT (Master) practical exam is the capstone to EC-Council’s entire information security track; from the Certified Ethical Hacker Program (CEH) to the EC-Council Certified Security Analyst (ECSA) Program. It all culminates with the ultimate test of your career as a penetration tester – the Licensed Penetration Tester practical exam.
+-You will need to demonstrate a mastery of the skills required to conduct a full blackbox penetration test of a network provided to you by EC-Council on our cyber range. 
+-You will follow the entire process taught to you through Ethical Hacking and Security Assessment, taking you from reconnaissance, through scanning, enumeration, gaining access, maintaining access, then exploiting vulnerabilities that you will have to seek out in a network that only a true professional will be able to break
+-EC-Council will provide the entire cyber-range through its cloud based cyber range, iLabs. All toolsets are provided to you, you bring the skill.
+
+4)CSCU - Certified Secure Computer Users
+****************************************
+-The purpose of the CSCU training program is to provide students with the necessary knowledge and skills to protect their information assets.
+-This class will immerse students into an interactive environment where they will acquire fundamental understanding of various computer and network security threats such as identity theft, credit card fraud, online banking phishing scams, virus and backdoors, emails hoaxes, sex offenders lurking online, loss of confidential information, hacking attacks and social engineering. 
+-More importantly, the skills learnt from the  class helps students take the necessary steps to mitigate their security exposure
+
+5)CHFI - Computer Hacking Forsenic Investigator
+***********************************************
+-The process of investigating cyber-crime, laws involved, and the details in obtaining a search warranty
+-Different types of digital evidence, rules of evidence, digital evidence examination process, and electronic crime and digital evidence consideration by crime category
+-Roles of first responder, first responder toolkit, securing and evaluating electronic crime scene, conducting preliminary interviews, documenting electronic crime scene, collecting and preserving electronic evidence, packaging and transporting electronic evidence, reporting the crime scene
+-How to recover deleted files and deleted partitions in Windows, Mac OS X, and Linux
+-The process involved in forensic investigation using Access Data FTK and Encase Steganography and its techniques, Steganalysis, and image file forensics
+-Password Cracking Concepts, tools, types of password attacks and how to investigate password protected file breach
+-Different types of log capturing techniques, log management, time synchronization, log capturing tools
+-How to investigate logs, network traffic, wireless attacks, and web attacks
+-How to track e-mails and investigate e-mail crimes and many more.
+
+6)ECSP - EC Council Certified Secure Programmer
+*************************************************
+--This course will be invaluable to software developers and programmers alike to code and develop highly secure applications and web applications. This is done throughout the software life cycle that involves designing, implementing, and deployment of applications
+--.Net is widely used by almost all organizations as the leading framework to build web applications.
+--The course teaches developers how to identify security flaws and implement security countermeasures throughout the software development life cycle to improve the overall quality of products and applications.
+--EC-Council Certified Secure Programmer lays the foundation required by all application developers and development organizations to produce applications with greater stability and fewer security risks to the consumer. The Certified Secure Application Developer standardizes the knowledge base for application development by incorporating the best practices followed by experienced experts in the various domains.
+
+Objectives
+------------
+--Familiarize you with .Net Application Security, ASP.Net Security Architecture and help you understand the need for application security and common security threats to .Net framework
+--Discuss security attacks on .Net frame work and explain the secure software development life cycle
+--Help you to understand common threats to .Net assemblies and familiarize you with stack walking processes
+--Discuss the need for input validation, various input validation approaches, common input validation attacks, validation control vulnerabilities, and best practices for input validation
+--Familiarize you with authorization and authentication processes and common threats to authorization and authentication
+--Discuss various security principles for session management tokens, common threats to session management, ASP.Net session management techniques, and various session attacks
+--Cover the importance of cryptography in .Net, different types of cryptographic attacks in .Net, and various .Net cryptography namespaces
+--Explain symmetric and asymmetric encryption, hashing concepts, digital certificates, digital and XML signatures
+--Describe the principles of secure error handling, different levels of exception handling, and various .Net logging tools
+--Examine file handling concepts, file handling security concerns, path traversal attacks on file handling, and defensive techniques against path traversal attack
+
+--***Learning
+---.Net framework security features and various secure coding principles
+--.Net framework run time security model, role-based security, code access security (CAS), and class libraries security
+--Various validation controls, mitigation techniques for validation control vulnerabilities, defensive techniques for SQL injection attacks, and output encoding to prevent input validation attacks
+--Defensive techniques against session attacks, cookie security, and View State security
+----Mitigating vulnerabilities in class level exception handling, managing unhandled errors, and implementing windows log security against various attacks
+--Defensive techniques against path traversal attacks and defensive techniques against canonicalization attack and file ACLs
+--Mitigating vulnerabilities in machine config files, mitigating the vulnerabilities in app config files, and security code review approaches
+--The importance of secure programmers and certified secure programmers, the career path of secure programmers, and the essential skill set of secure programmers
+
+ECSP for JAva
+-------------
+http://www.eccouncil.org/Certification/ec-council-certified-secure-programmer-java
+
+--It helps developers understand how to write secure and robust Java applications and provides advanced knowledge in various aspects of secure Java development that can effectively prevent hostile and buggy code.
+--The end result of security Java coding practices include saving valuable effort, money, time, and possibly the reputation of organizations using Javacoded applications.
+
+--**Learn
+--Java security principles and secure coding practices
+--Java Security Platform, Sandbox, JVM, Class loading, Bytecode verifier, Security Manager, security policies, and Java Security Framework
+--Secure Software Development Lifecycle, threat modelling, software security frameworks, and secure software architectures
+--Best practices and standards and guidelines for secure file input/output and serialization
+--Java input validation techniques, validation errors, and best practices
+--Java exceptions, erroneous behaviors, and the best practices to handle or avoid them
+--Secure authentication and authorization processes
+--Java Authentication and Authorization Service (JAAS), its architecture, Pluggable Authentication Module (PAM) Framework, and access permissions through Java Security Model
+--Secure Java concurrency and session management that includes Java Memory Model, Java Thread Implementation methods, secure coding practices, and guidelines for handling threads, race conditions, and deadlocks
+--Core security coding practices of Java Cryptography that includes Encryption, KeyGenerator, implementation of Cipher Class, Digital Signatures, Secret Keys, and key management
+--Various Java application vulnerabilities such as Cross-Site Scripting (XSS), Cross Site Request Forgery (CSRF), Directory Traversal vulnerability, HTTP Response Splitting attack, Parameter Manipulation, Injection Attacks and their countermeasures
+--Coding testing and review techniques and practices
+
+7)ENSA - EC Council Network Security Administrator
+***************************************************
+--the EC-Council's ENSA certification looks at the network security in defensive view while the CEH certification program looks at the security in offensive mode.
+--The ENSA program is designed to provide fundamental skills needed to analyze the internal and external security threats against a network, and to develop security policies that will protect an organization’s information.
+--Students will learn how to evaluate network and Internet security issues and design, and how to implement successful security policies and firewall strategies
+-- they will learn how to expose system and network vulnerabilities and defend against them. 
+
+8)CCISO- Certified Chief Information Security Officers
+****************************************************
+
+http://iclass.eccouncil.org/?p=4846#customizetraining
+*****
+The EC-Council CCISO Body of Knowledge covers all five the CCISO Information Security Management Domains in depth and was written by seasoned CISOs for current and aspiring CISOs. 
+-Domain 1 covers the Policy, Legal, and Compliance aspects of Governance. 
+-Domain 2 delves into the all-important topic of audit management from the CISO’s perspective and also covers IS controls.
+-Domain 3 covers the Role of the CISO from a Project and Operations Management perspective
+- Domain 4 summarizes the technical aspects that CISOs manage in their day-to-day jobs, but from an executive standpoint. 
+-Domain 5 is all about Strategic Planning and Finance – crucial areas for C-Level executives to understand in order to succeed and drive information security throughout their organizations.
+
+Why Requires
+-----------
+-The CCISO Certification is an industry-leading program that recognizes the real-world experience necessary to succeed at the highest executive levels of information security.  
+-Bringing together all the components required for a C-Level positions, the CCISO program combines audit management, governance, IS controls, human capital management, strategic program development, and the financial expertise vital to leading a highly successful IS program.
+-Material in the CCISO Program assumes a high-level understanding of technical topics and doesn’t spend much time on strictly technical information, but rather on the application of technical knowledge to an information security executive’s day-to-day work.  
+-The CCISO aims to bridge the gap between the executive management knowledge that CISOs need and the technical knowledge that many aspiring CISOs have.  This can be a crucial gap as a practitioner endeavors to move from mid-management to upper, executive management roles.  Much of this is traditionally learned as on the job training, but the CCISO Training Program can be the key to a successful transition to the highest ranks of information security management.
+
+
+
+
+
+
