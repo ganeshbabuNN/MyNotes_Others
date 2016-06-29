@@ -1,0 +1,46 @@
+1-Getting Started
+	1-Introduction & History
+	2-Architecture
+	3-Configuration & installations
+	4-Hello World Program
+	5-Structure of a program
+2-Programming Terms
+	1-Application & Solutions
+	2-Syntax and Syntax Errors
+	3-Statements
+	4-Comments
+	5-Logical and Physical memory Address
+	6-Object Type
+	7-Variables 
+	8-Parameters
+	9-Function,Procedures and Methods
+	10-Naming conventions
+	11-Operators
+	12-Class
+	13-Acccessors and Mutators
+	14-Exceptions
+	15-Runtime Error
+	16-Debug
+	17-Logic and Algorithms
+3-Programming Concepts
+	1-Creative a solutions
+	2-Building a solutions
+	3-starting and running a solutions
+	4-Deploying a solutions
+	5-Assiging or Changing variable values
+	6-Mathematical calculations
+	7-Error Handling Exceptions and Trapping Handling
+	8-Getting Input and producing output
+	9-Logical statement with operator and variables
+	10-Decision structures
+	11-loops
+4-Abstract programming concepts
+	1-Procedural programming
+	2-Functional programming
+	3-Object-Oriented programming and design patterns
+	4-Pseudocode
+	5-Flowcharting
+	6-Object modeling with UML structures
+	7-Data structures
+
+
