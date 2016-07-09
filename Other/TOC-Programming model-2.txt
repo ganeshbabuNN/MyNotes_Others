@@ -193,7 +193,7 @@
 	-Error handling
 	-Memory managment techniques
 		a-Managing Dynamic data like DMA
-		b-Allocating,Releasing,Altering Memory Techniques like 		  		  MALLOC,CALLOC,REALOC,FREE
+		b-Allocating,Releasing,Altering Memory Techniques like MALLOC,CALLOC,REALOC,FREE
 	-Data structures
 		a-linked lists
 		b-Stacks
