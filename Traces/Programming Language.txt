@@ -1,0 +1,17 @@
+Coconut
+------
+Coconut-Coconut is a simple, elegant, Pythonic functional programming language that compiles to Python. Since all valid Python is valid Coconut, using Coconut will only extend and enhance what you're already capable of in Python
+
+Oden
+---
+Oden is an experimental, statically typed, functional programming language, built for the Go ecosystem. It aims to leverage the great features of Go — static linking, cross-compilation, goroutines, channels and the great set of libraries and tools— and enable higher-level abstractions, generics and a safer yet more flexible type system.
+
+Crystal
+-------
+Crystal- Crystal is a programming language with the following goals:
+Have a syntax similar to Ruby (but compatibility with it is not a goal)
+Statically type-checked but without having to specify the type of variables or method arguments.
+Be able to call C code by writing bindings to it in Crystal.
+Have compile-time evaluation and generation of code, to avoid boilerplate code.
+Compile to efficient native code.
+
