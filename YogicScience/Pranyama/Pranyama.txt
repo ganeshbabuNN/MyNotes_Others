@@ -1,9 +1,9 @@
-Flow of breath
+breath type (Sthiti)
 
-1)puraka
-2)kumbaka
-3)Raechaka
-4)Shunyaka
+1)puraka- Inhale
+2)kumbaka-Hold
+3)Raechaka-exchale
+4)Shunyaka-Hold
 
 
 Types
@@ -17,8 +17,11 @@ Types
 4)  Chinmudra
 5)  ChinmayaMudra
 6)  AdhiMudra
-7)  MalMudra
+7)  MeluMudra
+8)  PurnaMudra
 
    Dauti
 
-KapalaBathi
+9) maha pranayama-KapalaBathi - 3 times
+
+Ratio: 4:2:5:2 --> sequence of stiti
