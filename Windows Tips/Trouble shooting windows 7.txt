@@ -1,0 +1,2 @@
+to check and repair corrupted system files
+SFC /SCANNOW Command
