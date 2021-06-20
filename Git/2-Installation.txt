@@ -1,0 +1,86 @@
+installation of git 
+Git Environment Setup
+
+installation
+============
+
+installing git on windows
+-------------------------
+1) got to this link and install https://git-scm.com/downloads
+
+installing git on Linux
+-----------------------
+1)apt-get update 
+2)apt-get install git-core
+3)git --version
+
+
+installing git on mac
+---------------------
+mac comes along with the git version
+git --version  
+
+1)if not available go the official site https://git-scm.com/downloads
+2)
+
+
+using homebrew:
+1) brew install git 
+2)git --version
+3)git config --global user.name "ganesh"  #configure GIT
+4)git config --global user.email "ganesh@gmail.com"  
+
+
+Git Environment Setup
+=====================
+-Git supports a command called git config that lets you get and set configuration variables that control all facets of how Git looks and operates
+-It is used to set Git configuration values on a global or local project level
+-Setting user.name and user.email are the necessary configuration options as your name and email will show up in your commit messages.
+
+Setting username
+----------------
+git config --global user.name "Ganesh Babu" 
+
+
+Setting email id
+----------------
+git config --global user.email  "ganeshbabu346@gmail.com"  
+
+Checking Your Settings
+----------------------
+git config -list 
+
+Colored output
+--------------
+-Git config -global color.ui true
+
+Git configuration levels
+------------------------
+-The git config command can accept arguments to specify the configuration level
+1)local
+2)global
+3)system
+
+local:
+It is the default level in Git. Git config will write to a local level if no configuration option is given. Local configuration values are stored in .git/config directory as a file
+
+global:
+-The global level configuration is user-specific configuration
+User-specific means, it is applied to an individual operating system user. Global configuration values are stored in a user's home directory. ~ /.gitconfig on UNIX systems and C:\Users\\.gitconfig on windows as a file format
+
+system:
+-The system-level configuration is applied across an entire system
+-The entire system means all users on an operating system and all repositories
+-he system-level configuration file stores in a gitconfig file off the system directory. $(prefix)/etc/gitconfig on UNIX systems and C:\ProgramData\Git\config on Windows
+
+
+
+Quiz
+====
+
+Assignment
+==========
+
+
+Resources:
+=========

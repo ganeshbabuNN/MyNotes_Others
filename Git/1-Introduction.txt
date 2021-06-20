@@ -1,0 +1,115 @@
+Intro
+Quiz
+assignment
+Resources
+
+
+VCS intro
+=========
+A version control system is a software that tracks changes to a file or set of files over time so that you can recall specific versions later. It also allows you to work together with other programmers
+
+benefits:
+-Complete change history of the file
+-Simultaneously working
+-Branching and merging
+-Traceability
+
+Types:
+1)Localized version Control System
+2)Centralized version control systems
+3)Distributed version control systems
+
+Localized Version Control Systems
+---------------------------------
+refer LVCS.png
+-The localized version control method is a common approach because of its simplicity.But this approach leads to a higher chance of error
+-In this approach, you may forget which directory you're in and accidentally write to the wrong file or copy over files you don't want to.
+-To deal with this issue, programmers developed local VCSs that had a simple database
+-Such databases kept all the changes to files under revision control
+
+Centralized Version Control System
+----------------------------------
+-The developers needed to collaborate with other developers on other systems
+-The localized version control system failed in this case. To deal with this problem, Centralized Version Control Systems were developed.
+-These systems have a single server that contains the versioned files, and some clients to check out files from a central place.
+-It also has the same drawback as in local version control system that it also has a single point of failure.
+
+refer CVCS.png
+
+Distributed Version Control System
+----------------------------------
+-Centralized Version Control System uses a central server to store all the database and team collaboration. But due to single point failure, which means the failure of the central server, developers do not prefer it. Next, the Distributed Version Control System is developed
+-In a Distributed Version Control System (such as Git, Mercurial, Bazaar or Darcs), the user has a local copy of a repository. So, the clients don't just check out the latest snapshot of the files even they can fully mirror the repository.
+-The local repository contains all the files and metadata present in the main repository.
+-DVCS allows automatic management branching and merging
+-DVCS allows automatic management branching and merging
+-It speeds up of most operations except pushing and pulling.
+-DVCS enhances the ability to work offline and does not rely on a single location for backups
+-If any server stops and other systems were collaborating via it, then any of the client repositories could be restored by that server.
+-Every checkout is a full backup of all the data
+
+refer DVCS.png
+
+intro
+=====
+Git is a modern and widely used distributed version control system in the world. It is developed to manage projects with high speed and efficiency. The version control system allows us to monitor and work together with our team members at the same workspace.
+
+Git is an open-source distributed version control system. It is designed to handle minor to major projects with high speed and efficiency.
+
+Features of Git
+---------------
+it a few major features
+1)Open Source
+2)Scalable
+3)Distributed
+4)Security
+5)Speed
+6)Supports non-linear development
+7)Branching and Merging
+8)Data Assurance
+9)Staging Area
+10)Maintain the clean history
+
+
+Benefits of Git
+---------------
+1)Saves Time
+2)Offline Working
+3)Undo Mistakes
+4)Track the Changes
+
+Why Git?
+-------
+1)Git Integrity
+2)Trendy Version Control System
+3)Everything is Local
+4)Collaborate to Public Projects
+5)Impress Recruiters
+
+
+Some products
+=============
+Github :GitHub is a Git repository hosting service. GitHub also facilitates with many of its features, such as access control and collaboration. It provides a Web-based graphical interface. they have GITDESKTOP as client tool
+
+Bitbucket:Bitbucket is a Git-based source code repository hosting service owned by Atlassian. Bitbucket offers both commercial plans and free accounts with an unlimited number of private repositories. they have SourceTree as CLient tool
+
+GitLab:GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
+
+legacy scm(software version system)
+------------------------------------
+SVN-Apache Subversion or SVN is one of the most popular centralized version control systems. Now, SVN's popularity is on the decrease, but there are still millions of projects stored in it. It can continue to be actively maintained by an open-source community
+
+Mercurial:Mercurial is a distributed source control management tool. It is free and open-source.Mercurial still has a handful tool of large development organizations. Some software development giants like Facebook, Mozilla, and World Wide Web Consortium are using it
+
+
+
+
+Quiz
+====
+
+Assignment
+==========
+
+
+Resources:
+=========
